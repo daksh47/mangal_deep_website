@@ -1,0 +1,14 @@
+.offer_wlaa_order_details{
+    background-color: #52f488;
+    text-align: center;
+}
+.img_orde_detailk{
+    max-width: 70%;
+}
+.card_wala_bhai{
+    box-shadow: 0 8px 16px 0 rgb(7, 7, 7);
+    padding:.7rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

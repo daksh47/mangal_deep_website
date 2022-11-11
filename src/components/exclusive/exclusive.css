@@ -1,0 +1,43 @@
+.exe-container {
+    background-color: #1A1A1A;
+    background-size: cover;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+.outer-card{
+    box-shadow: 1px 1px 10px 1px rgb(255, 255, 255);
+    padding:.7rem;
+}
+.outer-card:hover {
+  box-shadow: 1px 2px 20px 1px rgba(255, 255, 255);
+}
+.img1{
+    max-width:70%;
+    height: 70%;
+    
+  }
+  .bhai{
+    cursor: pointer;
+  }
+  .loader {
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 2s linear infinite;
+  }
+  
+  /* Safari */
+  @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+

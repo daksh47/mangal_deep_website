@@ -1,0 +1,16 @@
+.enter_details {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.one-part {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.border-box{
+    border: 3px solid red;
+}
+body{
+    scroll-behavior: smooth;
+}

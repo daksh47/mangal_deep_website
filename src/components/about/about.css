@@ -1,0 +1,12 @@
+.about-container {
+    background-color: #1A1A1A;
+    background-size: cover;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+  .img{
+    max-width:100%;
+    height: 100%;
+  }
+  

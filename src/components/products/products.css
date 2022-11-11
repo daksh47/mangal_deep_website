@@ -1,0 +1,17 @@
+.product_img{
+    max-width: 100%;
+    width:13rem;
+    height: 10rem;
+    border-style: solid;
+}
+.outer-card-prod{
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0);
+    padding:.7rem;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .outer-card-prod:hover {
+  box-shadow: 0 8px 16px 0 rgb(7, 7, 7);
+  }
